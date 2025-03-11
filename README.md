@@ -9,12 +9,7 @@
 
 🛠 Tech & Tools:  
 - C++, Java, OpenGL, Godot
-- NixOS, Debian, Wayland, Sway, Neovim  
+- Debian, Wayland, Sway, Neovim  
 - Blender, Shader programming, Steamworks.NET  
-
-🔧 Exploring:  
-- Custom AI server setups for local LLMs  
-- Efficient networking and ECS patterns 
-- Obsidian plugin development
 
 ⭕ Always building, always learning. Time is a flat circle.
